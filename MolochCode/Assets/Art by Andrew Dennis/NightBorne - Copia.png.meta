@@ -1,0 +1,1339 @@
+fileFormatVersion: 2
+guid: cab63472c066597448183be3429b53bc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NightBorne - Copia_0
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 336
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667f1dc1d0553fb47a18da0a10354ec5
+      internalID: 574869857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_2
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 336
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807e7f7aaa8788142b10adebfd6913b6
+      internalID: -1197444713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_3
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 336
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c901806f1ec4ca4eba53014ba1dc899
+      internalID: -1961157689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_4
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 336
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80201ed0182b35b479028b71945c0706
+      internalID: 1436602515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_6
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 336
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc2ebaf9f453cb46bee608682b8234e
+      internalID: -1829953523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_7
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 336
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f486409f9e07a4782ebc8638cce8de
+      internalID: -1864589110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_8
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 336
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f85604ee7e2f324c87d87a20266f75c
+      internalID: 1837705829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_9
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 336
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa4d6a68cd812645aa11725aefba37c
+      internalID: -1982888216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_10
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 336
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c5e1ec62fedd44db967c86e8966bf9
+      internalID: 1839057014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_11
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 258
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7bb765ce28c5945b4435ec756fb36e
+      internalID: 1822070748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_13
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 256
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad21224bd4f21b45a9bb758a091062a
+      internalID: -321884395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_14
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 257
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2faa4059bccd70047845496e44168b11
+      internalID: 1403366982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_15
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 256
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079442ded3510a74f9d71ef616badda7
+      internalID: -463167265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_16
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 257
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c931ebbc9cb36540a46b54aa1e77af9
+      internalID: 1602723160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_17
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 257
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f409bdc961b4a934cb4a4e0811901a59
+      internalID: 125048152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_30
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 176
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77707481c5292754d9b15e6eb80ac172
+      internalID: 133130997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_31
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 173
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7339da3a8a4d47418b858bfcc4815e7
+      internalID: 1052060184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_32
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 172
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb00309e4b53c44ba4c8135f8bf49ac
+      internalID: -1284584602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_33
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 176
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b898642a21b5e42a6e97ee36347ab5
+      internalID: -171633136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_35
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 176
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3a4b16afa21484aae42f5384f38a57
+      internalID: 623736086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_36
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 176
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f993f41a9170b1945aedc4bdf5d8a64c
+      internalID: -1428741212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_37
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 176
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf1b41a054e30e49a08746cd6d98d88
+      internalID: -1057250288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_39
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 176
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a759075cff481748bb73ae09433b8a3
+      internalID: -1000284206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_40
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 176
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5deecf0659f3545959f4d39099d801
+      internalID: -131955457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_41
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 177
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882bb2ba3437d954fb438778fb5e303c
+      internalID: 1667019503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_42
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 176
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0424c2b22ccd4574c87cbf8563f01e92
+      internalID: 225103912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_43
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 176
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f304df50bdfe074585dab55d8fb78bf
+      internalID: 548476870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_45
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 96
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105a9ff882f74594387cdb3838bd6736
+      internalID: -1835331207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_46
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 96
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d475760ee59fcd34a9a9039959cff2d4
+      internalID: 2037999240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_47
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 96
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a3eac64c0e82c49b48341dc71b3f7e
+      internalID: -1105403994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_48
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 96
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105ae133755969e44b8c46558c846952
+      internalID: -1661740378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_49
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 96
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9f65c86b43a7145935f0b4a4d1b656
+      internalID: 1946931017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_51
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d39460a3c607034fbe3b26711d7a4a0
+      internalID: 1866810629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_52
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 25
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a3de45e4863d34b92be2a539cb321a
+      internalID: 1416429450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_54
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 18
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dc592e39fbc8a4eb94271665871e13
+      internalID: 683800264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_55
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 17
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd7fdd9f0d1d8f4998a9030a66393fd
+      internalID: -834408376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_57
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 13
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae3aec161d0da049ae535049b362525
+      internalID: 1674642457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_58
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 9
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17f4a4c81fb6e3419a00d6fd98e9b65
+      internalID: 1409625119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_59
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 7
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48b113d9ac44c8488771998cf11cf55
+      internalID: 1811851875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_60
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 2
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4238f76265999b34a8fb097e873918fc
+      internalID: -1454234456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_62
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 2
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec99613eacb6de478e70e5b0afbbd45
+      internalID: 507944383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_63
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 2
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ada9e620166cff40a067a4f9149ee98
+      internalID: -1284877603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_64
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 10
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b125b7ab8a681e6499e1a4c4bc84a3d9
+      internalID: -1185051103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_65
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 10
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe2364208ac5374bac494e7387ed8e1
+      internalID: -668997502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_67
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 10
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e823cd1a9496f484dbcf8ee4e8a65716
+      internalID: -330834568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_68
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 16
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff53e4215c4c8944ca1ce91445c7c652
+      internalID: 1902888254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_69
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 16
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2c0d42f76806948b8a4af9393d3c17
+      internalID: -1445471025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_70
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 16
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e6b417543697442a3cade7a90d9d0e
+      internalID: 209226189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_72
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 16
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c535d2557103944bb66fe16c40738d
+      internalID: 631029026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_73
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 16
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80bcb8f56dd3ae43a2162559c16340d
+      internalID: -85540623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_74
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 16
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee50de8966f5ab4b8e1099cea51072f
+      internalID: -1336023864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_75
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 16
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d9f6d2f0e28e74fb5e385bde0807b1
+      internalID: -145319002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_76
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 16
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b58ffd4eca6c304990c0a9fecfe69ce
+      internalID: 723283163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NightBorne - Copia_77
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 16
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9f47bbc34f1064eb9dfe4c535ce6bb
+      internalID: 13019869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 275b65c541aa0c44a8e86bff31084eba
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NightBorne - Copia_0: 574869857
+      NightBorne - Copia_1: -182566467
+      NightBorne - Copia_10: 1839057014
+      NightBorne - Copia_11: 1822070748
+      NightBorne - Copia_12: -920586758
+      NightBorne - Copia_13: -321884395
+      NightBorne - Copia_14: 1403366982
+      NightBorne - Copia_15: -463167265
+      NightBorne - Copia_16: 1602723160
+      NightBorne - Copia_17: 125048152
+      NightBorne - Copia_18: 1250415359
+      NightBorne - Copia_19: -2015452913
+      NightBorne - Copia_2: -1197444713
+      NightBorne - Copia_20: 623711981
+      NightBorne - Copia_21: -80218661
+      NightBorne - Copia_22: 2049787650
+      NightBorne - Copia_23: -1073945646
+      NightBorne - Copia_24: 1771305789
+      NightBorne - Copia_25: -1811298412
+      NightBorne - Copia_26: 1988252389
+      NightBorne - Copia_27: -1603459647
+      NightBorne - Copia_28: 1279068045
+      NightBorne - Copia_29: 2021223109
+      NightBorne - Copia_3: -1961157689
+      NightBorne - Copia_30: 133130997
+      NightBorne - Copia_31: 1052060184
+      NightBorne - Copia_32: -1284584602
+      NightBorne - Copia_33: -171633136
+      NightBorne - Copia_34: -1013210464
+      NightBorne - Copia_35: 623736086
+      NightBorne - Copia_36: -1428741212
+      NightBorne - Copia_37: -1057250288
+      NightBorne - Copia_38: -62382197
+      NightBorne - Copia_39: -1000284206
+      NightBorne - Copia_4: 1436602515
+      NightBorne - Copia_40: -131955457
+      NightBorne - Copia_41: 1667019503
+      NightBorne - Copia_42: 225103912
+      NightBorne - Copia_43: 548476870
+      NightBorne - Copia_44: 1568551535
+      NightBorne - Copia_45: -1835331207
+      NightBorne - Copia_46: 2037999240
+      NightBorne - Copia_47: -1105403994
+      NightBorne - Copia_48: -1661740378
+      NightBorne - Copia_49: 1946931017
+      NightBorne - Copia_5: -780518056
+      NightBorne - Copia_50: 36714548
+      NightBorne - Copia_51: 1866810629
+      NightBorne - Copia_52: 1416429450
+      NightBorne - Copia_53: -1262624974
+      NightBorne - Copia_54: 683800264
+      NightBorne - Copia_55: -834408376
+      NightBorne - Copia_56: 1709857969
+      NightBorne - Copia_57: 1674642457
+      NightBorne - Copia_58: 1409625119
+      NightBorne - Copia_59: 1811851875
+      NightBorne - Copia_6: -1829953523
+      NightBorne - Copia_60: -1454234456
+      NightBorne - Copia_61: -1480378017
+      NightBorne - Copia_62: 507944383
+      NightBorne - Copia_63: -1284877603
+      NightBorne - Copia_64: -1185051103
+      NightBorne - Copia_65: -668997502
+      NightBorne - Copia_66: -1259050859
+      NightBorne - Copia_67: -330834568
+      NightBorne - Copia_68: 1902888254
+      NightBorne - Copia_69: -1445471025
+      NightBorne - Copia_7: -1864589110
+      NightBorne - Copia_70: 209226189
+      NightBorne - Copia_71: 1642145868
+      NightBorne - Copia_72: 631029026
+      NightBorne - Copia_73: -85540623
+      NightBorne - Copia_74: -1336023864
+      NightBorne - Copia_75: -145319002
+      NightBorne - Copia_76: 723283163
+      NightBorne - Copia_77: 13019869
+      NightBorne - Copia_8: 1837705829
+      NightBorne - Copia_9: -1982888216
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

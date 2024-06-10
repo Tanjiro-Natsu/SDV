@@ -1,0 +1,541 @@
+fileFormatVersion: 2
+guid: 145122990bb06224887c3a20139e7d5f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Abyss_Golem_spritesheet - Copia_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 574
+        width: 91
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a202ce887806b488bcd38dcbfb2a07
+      internalID: -130564379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abyss_Golem_spritesheet - Copia_3
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 574
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9279b514651c04d4fb7b026c8cc74b86
+      internalID: -406107088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abyss_Golem_spritesheet - Copia_5
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 574
+        width: 92
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acacbdac10a84d429d6fd495abdd4df
+      internalID: -1049598102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abyss_Golem_spritesheet - Copia_6
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 574
+        width: 92
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc9d87e3bb10f1409dbd819cb04b75a
+      internalID: 1397984055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abyss_Golem_spritesheet - Copia_15
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 397
+        width: 86
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef612b909e7c40a409e12ed1a3849e8e
+      internalID: -959392755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abyss_Golem_spritesheet - Copia_17
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 397
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0d226ee20b0c846947c0e72a933e08
+      internalID: 1586640257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abyss_Golem_spritesheet - Copia_19
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 397
+        width: 127
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b76040412c34e4a8dfb490af773c7b
+      internalID: -1311547622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abyss_Golem_spritesheet - Copia_21
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 397
+        width: 81
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa1247c99100264198f9d05b4902be3
+      internalID: 1553392854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abyss_Golem_spritesheet - Copia_22
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 397
+        width: 86
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a00973745ac1504ca5c1c5e0647fa69
+      internalID: 363852821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abyss_Golem_spritesheet - Copia_23
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 220
+        width: 91
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350d9eac8e0d8c1418cdfbf6b1debc54
+      internalID: -504633935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abyss_Golem_spritesheet - Copia_25
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 219
+        width: 91
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8baadcd7e16204b89270e2d77f4a94
+      internalID: 27917753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abyss_Golem_spritesheet - Copia_27
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 220
+        width: 92
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a24615221681c47994f7a9a869a1c4
+      internalID: 1251681967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abyss_Golem_spritesheet - Copia_29
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 220
+        width: 92
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fae90e1b28e7e43849d35416875ee1
+      internalID: -1956107063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abyss_Golem_spritesheet - Copia_30
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 220
+        width: 92
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64784e36397bc4439a3d561055ceda9
+      internalID: 923519803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abyss_Golem_spritesheet - Copia_31
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 39
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0b415a3d06d54458c70547c859a4f5
+      internalID: 835373300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abyss_Golem_spritesheet - Copia_32
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 42
+        width: 86
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885c99a7112d4304e9f3fd33302e77d1
+      internalID: 1900213244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abyss_Golem_spritesheet - Copia_34
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 42
+        width: 86
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b17ed141ed9534097c3eb9c1086877
+      internalID: 1661465391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abyss_Golem_spritesheet - Copia_35
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 43
+        width: 91
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d206f0ab44e57bc409e77cc9b141e962
+      internalID: -1856403586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fc61390903f4314478f1cb77de501b47
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Abyss_Golem_spritesheet - Copia_0: -130564379
+      Abyss_Golem_spritesheet - Copia_1: -176068920
+      Abyss_Golem_spritesheet - Copia_10: -1986227306
+      Abyss_Golem_spritesheet - Copia_11: -1738563781
+      Abyss_Golem_spritesheet - Copia_12: 2069730979
+      Abyss_Golem_spritesheet - Copia_13: 787423810
+      Abyss_Golem_spritesheet - Copia_14: 1212302174
+      Abyss_Golem_spritesheet - Copia_15: -959392755
+      Abyss_Golem_spritesheet - Copia_16: 1106563417
+      Abyss_Golem_spritesheet - Copia_17: 1586640257
+      Abyss_Golem_spritesheet - Copia_18: -1439241292
+      Abyss_Golem_spritesheet - Copia_19: -1311547622
+      Abyss_Golem_spritesheet - Copia_2: 1134557245
+      Abyss_Golem_spritesheet - Copia_20: -1598319637
+      Abyss_Golem_spritesheet - Copia_21: 1553392854
+      Abyss_Golem_spritesheet - Copia_22: 363852821
+      Abyss_Golem_spritesheet - Copia_23: -504633935
+      Abyss_Golem_spritesheet - Copia_24: 829571797
+      Abyss_Golem_spritesheet - Copia_25: 27917753
+      Abyss_Golem_spritesheet - Copia_26: 165732410
+      Abyss_Golem_spritesheet - Copia_27: 1251681967
+      Abyss_Golem_spritesheet - Copia_28: -2046934447
+      Abyss_Golem_spritesheet - Copia_29: -1956107063
+      Abyss_Golem_spritesheet - Copia_3: -406107088
+      Abyss_Golem_spritesheet - Copia_30: 923519803
+      Abyss_Golem_spritesheet - Copia_31: 835373300
+      Abyss_Golem_spritesheet - Copia_32: 1900213244
+      Abyss_Golem_spritesheet - Copia_33: 615271684
+      Abyss_Golem_spritesheet - Copia_34: 1661465391
+      Abyss_Golem_spritesheet - Copia_35: -1856403586
+      Abyss_Golem_spritesheet - Copia_4: 927600563
+      Abyss_Golem_spritesheet - Copia_5: -1049598102
+      Abyss_Golem_spritesheet - Copia_6: 1397984055
+      Abyss_Golem_spritesheet - Copia_7: -382464824
+      Abyss_Golem_spritesheet - Copia_8: -1005260290
+      Abyss_Golem_spritesheet - Copia_9: 628292337
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

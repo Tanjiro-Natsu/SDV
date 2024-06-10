@@ -1,0 +1,66 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="OptionMenu">
+			<method name="close"/>
+			<method name="close"/>
+			<method name="close"/>
+			<method name="close"/>
+			<method name="close"/>
+			<method name="close"/>
+			<method name="close"/>
+			<method name="close"/>
+			<method name="close"/>
+			<method name="close"/>
+			<method name="close"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+			<method name="Press"/>
+		</type>
+		<type fullname="StartMenu">
+			<method name="Options"/>
+			<method name="PlayGame"/>
+			<method name="QuitGame"/>
+		</type>
+	</assembly>
+</linker>
